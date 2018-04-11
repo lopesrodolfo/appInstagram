@@ -36,7 +36,7 @@ export class BannerComponent implements OnInit {
   }
 
   public logicaRotacao(): void {
-    console.log(this.imagens)
+
 
     //ocultar
     for (let i: number = 0; i <= 4; i++) {
